@@ -19,7 +19,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18x;
     color: black;
-    background-image: url(css/pat_04.png);
+    background-image: url(pat_04.png);
     background-color: rgb(209, 238, 181);
 }
 
@@ -53,7 +53,7 @@ a {
 
 
 .top-wrapper {
-    background-image: url(css/top-wrapper.jpg);
+    background-image: url(top-wrapper.jpg);
     background-position: center;
     padding: 150px;
     border-radius: 5px;
